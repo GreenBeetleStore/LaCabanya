@@ -22,3 +22,4 @@ Aquest accés ha de ser universal, per tots els usuaris, independentment dels se
 
 [Visita la web](https://greenbeetlestore.github.io/LaCabanya/)
 
+![PageSpeed Insights](psi.png)
