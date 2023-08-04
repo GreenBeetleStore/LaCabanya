@@ -4,6 +4,8 @@
 
 ## Web turístic de La Cabanya a La Ràpita
 
+
+
 ## L’accessibilitat web: un dret universal
 
 ### Tothom té dret a percebre, entendre, navegar i interactuar

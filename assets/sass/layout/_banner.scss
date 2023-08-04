@@ -95,6 +95,10 @@
 			.inner {
 				width: 100%;
 			}
+
+			.qr {
+				image-resolution: 72px;
+			}
 		}
 
 		@include breakpoint('<=small') {
