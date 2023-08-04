@@ -1,5 +1,6 @@
 <img src="../images/LogoPlatja.webp">
 # LaCabanya
+
 ## Web turístic de La Cabanya a La Ràpita
 
 ## L’accessibilitat web: un dret universal
