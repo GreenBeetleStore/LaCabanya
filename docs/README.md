@@ -4,6 +4,8 @@
 
 ## Web turístic de La Cabanya a La Ràpita
 
+Aquesta WEB ha estat creada amb els màxims estandards possibles de RENDIMENT, ACCESSIBILITAT, PRÀCTIQUES RECOMANADES i SEO, com es mostra en el segënt test de [PageSpeed Insights a web.dev](https://pagespeed.web.dev/analysis/https-greenbeetlestore-github-io-LaCabanya/cwir1yh4k9?form_factor=desktop)
+<img src="psi.png" alt="Resultats del test">
 
 
 ## L’accessibilitat web: un dret universal
