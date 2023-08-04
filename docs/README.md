@@ -20,3 +20,5 @@ Tot i que només els organismes del sector públic estan obligats a complir la n
 
 Aquest accés ha de ser universal, per tots els usuaris, independentment dels seus recursos tecnològics (tipus de dispositius, resolucions de pantalla…), la seva formació, cultura i capacitat d’aprenentatge i les seves condicions físiques (problemes visuals, auditius, d’ansietat, discapacitats físiques o motores…).
 
+[Visita la web](https://greenbeetlestore.github.io/LaCabanya/)
+
