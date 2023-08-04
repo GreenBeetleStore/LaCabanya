@@ -1,4 +1,5 @@
 <img src="../images/LogoPlatja.webp">
+
 # LaCabanya
 
 ## Web turístic de La Cabanya a La Ràpita
