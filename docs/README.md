@@ -139,6 +139,18 @@ Aquest accés ha de ser universal, per tots els usuaris, independentment dels se
 
 ## Pràctiques Recomanades
 
+Millorar el rendiment del vostre lloc és una part important en el procés de creació, així com del manteniment continu. Les pautes de pràctiques recomanades permeten millorar l'experiència d'usuari i, per tant, altres aspectes, com la capacitat de resposta, la fluïdesa i el temps de càrrega.
+
+Temps de càrrega del lloc, utilitzar correctament la memòria cau
+
+Ordre de càrrega dels elements, prioritzant la construcció del DOM
+
+Optimització dels elements en mida, resolució, format, etc.
+
+Optimització de la web per a mòbil, que sigui responsiva per a diferents aparells.
+
+Codi de tercers, que sigui de confiança, net, segur i lleuger.
+
 ## SEO
 
 ## L’accessibilitat web: un dret universal
