@@ -6,9 +6,9 @@
 
 Integració Web : [Xavier Torta - © Green Beetle. ](https://greenbeetlestore.github.io/CV/)
 
-És un Disseny amb llicència [HTML5 UP].(https://html5up.net/license)
+És un Disseny amb llicència [HTML5 UP](https://html5up.net/license).
 
-Tot el contingut de codi HTML ha estat validat per [W3C](https://validator.w3.org/#validate_by_uri)
+Tot el contingut de codi HTML ha estat validat per [W3C](https://validator.w3.org/#validate_by_uri).
 
 Aquesta WEB ha estat creada amb els màxims estandards possibles de <b>RENDIMENT, ACCESSIBILITAT, PRÀCTIQUES RECOMANADES</b> i <b>SEO</b>, com mostren els resultats en els següents i diferents tests :
 
