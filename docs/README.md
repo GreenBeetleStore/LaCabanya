@@ -4,9 +4,17 @@
 
 ## Web turístic de La Cabanya a La Ràpita
 
-Aquesta WEB ha estat creada amb els màxims estandards possibles de RENDIMENT, ACCESSIBILITAT, PRÀCTIQUES RECOMANADES i SEO, com es mostra en el segënt test de [PageSpeed Insights a web.dev](https://pagespeed.web.dev/analysis/https-greenbeetlestore-github-io-LaCabanya/cwir1yh4k9?form_factor=desktop)
+Integració Web : [Xavier Torta - © Green Beetle. ](https://greenbeetlestore.github.io/CV/)
+
+És un Disseny amb llicència [HTML5 UP].(https://html5up.net/license)
+
+Aquesta WEB ha estat creada amb els màxims estandards possibles de <b>RENDIMENT, ACCESSIBILITAT, PRÀCTIQUES RECOMANADES</b> i <b>SEO</b>, com es mostra en els següents i diferents tests :
+
+[PageSpeed Insights a web.dev](https://pagespeed.web.dev/analysis/https-greenbeetlestore-github-io-LaCabanya/cwir1yh4k9?form_factor=desktop)
 
 <img src="psi.png" alt="Resultats del test">
+
+
 
 En quant al codi HTML s'ha tingut en compte de no incloure cap error de programació, validat per [W3C](https://validator.w3.org/#validate_by_uri).
 
