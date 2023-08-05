@@ -14,9 +14,15 @@ Tels. :
 
 · França : +33 685 03 21 45.
 
+---
+
 És un Disseny amb llicència [HTML5 UP](https://html5up.net/license).
 
+---
+
 Tot el contingut de codi HTML ha estat validat, sense cap error, per [W3C](https://validator.w3.org/#validate_by_uri).
+
+---
 
 Aquesta WEB ha estat creada amb els màxims estàndards possibles pel que fa a l'<b>Experiència d'Usuari (UX)</b>, tenint en compte els valors de<b>RENDIMENT, ACCESSIBILITAT, PRÀCTIQUES RECOMANADES</b> i <b>SEO</b>, com mostren els resultats en els següents i diferents tests :
 
@@ -54,6 +60,14 @@ PSI facilita dades dels experiments i dades de camp sobre les pàgines. Les dade
 <img src="giftofspeed.png" alt="Resultats del test GiftOfSpeed Speed Score" >
 
 
+### Test amb
+[WAVE](https://wave.webaim.org/report#/https://greenbeetlestore.github.io/LaCabanya/)
+
+### Resultats del test WAVE web accessibility evaluation tool
+· Puntuació d'accessibilitat 100%
+<img src="wave.png" alt="Resultats del test WAVE web accessibility evaluation tool" >
+
+---
 
 ## Rendiment
 
