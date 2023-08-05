@@ -4,6 +4,29 @@
 
 ## Web turístic de La Cabanya a La Ràpita
 
+<!-- Script Traductor -->
+               <div id="google_translate_element" class="google"></div>
+               <script defer type="text/javascript">
+                  function googleTranslateElementInit() {
+                     new google.translate.TranslateElement(
+                        {
+                           pageLanguage: 'es',
+                           includedLanguages: 'ca,eu,gl,en,fr,it,pt,de',
+                           layout:
+                              google.translate.TranslateElement.InlineLayout
+                                 .SIMPLE,
+                           gaTrack: true,
+                        },
+                        'google_translate_element'
+                     )
+                  }
+               </script>
+               <script defer
+                  type="text/javascript"
+                  src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"
+               ></script>
+                <!-- Fi Script Traductor -->
+
 Integració Web : [Xavier Torta - © Green Beetle. ](https://greenbeetlestore.github.io/CV/). 
 
 [f.xaviertorta@gmail.com](mailto:"f.xaviertorta@gmail.com). 
