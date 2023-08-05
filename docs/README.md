@@ -137,6 +137,8 @@ Tot i que només els organismes del sector públic estan obligats a complir la n
 
 Aquest accés ha de ser universal, per tots els usuaris, independentment dels seus recursos tecnològics (tipus de dispositius, resolucions de pantalla…), la seva formació, cultura i capacitat d’aprenentatge i les seves condicions físiques (problemes visuals, auditius, d’ansietat, discapacitats físiques o motores…).
 
+---
+
 ## Pràctiques Recomanades
 
 Millorar el rendiment del vostre lloc és una part important en el procés de creació, així com del manteniment continu. Les pautes de pràctiques recomanades permeten millorar l'experiència d'usuari i, per tant, altres aspectes, com la capacitat de resposta, la fluïdesa i el temps de càrrega.
@@ -150,6 +152,8 @@ Optimització dels elements en mida, resolució, format, etc.
 Optimització de la web per a mòbil, que sigui responsiva per a diferents aparells.
 
 Codi de tercers, que sigui de confiança, net, segur i lleuger.
+
+---
 
 ## SEO
 
