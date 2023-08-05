@@ -5,16 +5,20 @@
 ## Web turístic de La Cabanya a La Ràpita
 
 Integració Web : [Xavier Torta - © Green Beetle. ](https://greenbeetlestore.github.io/CV/). 
+
 [f.xaviertorta@gmail.com](mailto:"f.xaviertorta@gmail.com). 
+
 Tels. :
+
 · Catalunya : +34 699 27 31 31. 
+
 · França : +33 685 03 21 45.
 
 És un Disseny amb llicència [HTML5 UP](https://html5up.net/license).
 
 Tot el contingut de codi HTML ha estat validat, sense cap error, per [W3C](https://validator.w3.org/#validate_by_uri).
 
-Aquesta WEB ha estat creada amb els màxims estàndards possibles pel que fa a l'<b>Experiència d'Usuari (UX)</b>, <b>RENDIMENT, ACCESSIBILITAT, PRÀCTIQUES RECOMANADES</b> i <b>SEO</b>, com mostren els resultats en els següents i diferents tests :
+Aquesta WEB ha estat creada amb els màxims estàndards possibles pel que fa a l'<b>Experiència d'Usuari (UX)</b>, tenint en compte els valors de<b>RENDIMENT, ACCESSIBILITAT, PRÀCTIQUES RECOMANADES</b> i <b>SEO</b>, com mostren els resultats en els següents i diferents tests :
 
 ### Test amb
 [PageSpeed Insights a web.dev](https://pagespeed.web.dev/analysis/https-greenbeetlestore-github-io-LaCabanya/cwir1yh4k9?form_factor=desktop)
