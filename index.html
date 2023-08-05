@@ -37,6 +37,13 @@
       <meta name="AUTHOR" content="Green Beetle" />
       <meta name="REPLY-TO" content="f.xaviertorta@gmail.com" />
       <!-- Analytics END -->
+
+      <!-- Cache-Control -->
+      <!-- Imagenes almacendas por un año -->
+      <filesMatch ".(jpg|jpeg|png|webp|avif|ico)$">Header set Cache-Control "max-age=31536000, public"</filesMatch>
+      <!-- Almacenando js y css por un mes -->
+      <filesMatch ".(css|js)$">Header set Cache-Control "max-age=2628000, public"</filesMatch>
+
    </head>
 
    <body class="is-preload">
