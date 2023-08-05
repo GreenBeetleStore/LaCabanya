@@ -71,6 +71,20 @@ PSI facilita dades dels experiments i dades de camp sobre les pàgines. Les dade
 
 ## Rendiment
 
+La construcció de llocs web requereix HTML, CSS i JavaScript. Per crear llocs web i aplicacions que la gent vulgui fer servir, que atreguin i retinguin els usuaris, heu de crear una bona experiència d'usuari. Part de la bona experiència de l'usuari és garantir que el contingut es carregui ràpidament i respongui a la interacció de l'usuari. Això es coneix com a rendiment web, i en aquest mòdul aprendrà tot el que necessiteu per crear llocs web de rendiment.
+
+El rendiment web és el mesurament objectiu i l'experiència percebuda per l'usuari del temps de càrrega i el temps d'execució. El rendiment web és el temps que triga un lloc a carregar-se, a ser interactiu i receptiu, i al grau de fluïdesa del contingut durant les interaccions de l'usuari. És el desplaçament suau? Es pot fer clic als botons? Les finestres emergents s'obren ràpidament i s'animen sense problemes en fer-ho? El rendiment web inclou mesures objectives com el temps de càrrega, quadres per segon i temps per a experiències interactives i subjectives de quant de temps va trigar a carregar-se el contingut.
+
+Moltes característiques afecten el rendiment, inclosa la latència, la mida de l'aplicació, la quantitat de nodes DOM, la quantitat de sol·licituds de recursos realitzades, el rendiment de JavaScript, la càrrega de la CPU i més. És important minimitzar els temps de càrrega i resposta, i afegir funcions addicionals per ocultar la latència en fer que l'experiència sigui el més accessible i interactiva possible, tan aviat com sigui possible, mentre es carrega de forma asíncrona a les parts més llargues de l'experiència.
+
+Hi ha eines, API i millors pràctiques que ens ajuden a mesurar i millorar el rendiment web.
+
+### Puntuació de rendiment
+
+Al principi de l'informe que es genera al PSI, es mostra una puntuació que resumeix el rendiment d'una pàgina. Aquesta puntuació es determina quan executeu l'eina Lighthouse, que recull i analitza les dades d'experiments sobre cada pàgina. Si aquesta puntuació és igual o superior a 90, es considera que la velocitat de la pàgina és ràpida; si està entre el 50 i el 90, es considera normal, i si és inferior a 50 es considera lenta.
+
+---
+
 ## Accessibilitat
 
 ## Pràctiques Recomanades
