@@ -14,7 +14,9 @@ Aquesta WEB ha estat creada amb els màxims estandards possibles de <b>RENDIMENT
 
 [PageSpeed Insights a web.dev](https://pagespeed.web.dev/analysis/https-greenbeetlestore-github-io-LaCabanya/cwir1yh4k9?form_factor=desktop)
 
-<img src="psi.png" alt="Resultats del test">
+<img src="PageSpeedInsightsDesktop.png" alt="Resultats del test Desktop" label="Resultats Desktop">
+
+<img src="PageSpeedInsightsMobil.png" alt="Resultats del test Mòbil" label="Resultats Mòbil">
 
 
 
