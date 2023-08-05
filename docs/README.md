@@ -8,7 +8,9 @@ Integració Web : [Xavier Torta - © Green Beetle. ](https://greenbeetlestore.gi
 
 És un Disseny amb llicència [HTML5 UP].(https://html5up.net/license)
 
-Aquesta WEB ha estat creada amb els màxims estandards possibles de <b>RENDIMENT, ACCESSIBILITAT, PRÀCTIQUES RECOMANADES</b> i <b>SEO</b>, com es mostra en els següents i diferents tests :
+Tot el contingut de codi HTML ha estat validat per [W3C](https://validator.w3.org/#validate_by_uri)
+
+Aquesta WEB ha estat creada amb els màxims estandards possibles de <b>RENDIMENT, ACCESSIBILITAT, PRÀCTIQUES RECOMANADES</b> i <b>SEO</b>, com mostren els resultats en els següents i diferents tests :
 
 [PageSpeed Insights a web.dev](https://pagespeed.web.dev/analysis/https-greenbeetlestore-github-io-LaCabanya/cwir1yh4k9?form_factor=desktop)
 
