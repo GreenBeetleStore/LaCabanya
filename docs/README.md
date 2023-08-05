@@ -38,7 +38,12 @@ PSI facilita dades dels experiments i dades de camp sobre les pàgines. Les dade
 <img src="GTmetrix.png" alt="Resultats del test GTmetrix Grade" >
 
 
+### Test amb
+[GiftOfSpeed](https://www.giftofspeed.com/report/greenbeetlestore.github.io/VqhczJ/)
 
+### Resultats del test GiftOfSpeed Speed Score
+· Puntuació de Velocitat 98%
+<img src="giftofspeed.png" alt="Resultats del test GiftOfSpeed Speed Score" >
 
 ## Rendiment
 
