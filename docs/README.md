@@ -24,7 +24,7 @@ Tot el contingut de codi HTML ha estat validat, sense cap error, per [W3C](https
 
 ---
 
-Aquesta WEB ha estat creada amb els màxims estàndards possibles pel que fa a l'<b>Experiència d'Usuari (UX)</b>, tenint en compte els valors de<b>RENDIMENT, ACCESSIBILITAT, PRÀCTIQUES RECOMANADES</b> i <b>SEO</b>, com mostren els resultats en els següents i diferents tests :
+Aquesta WEB ha estat creada amb els màxims estàndards possibles pel que fa a l'<b>Experiència d'Usuari (UX)</b>, tenint en compte els valors de <b>RENDIMENT, ACCESSIBILITAT, PRÀCTIQUES RECOMANADES</b> i <b>SEO</b>, com mostren els resultats en els següents i diferents tests :
 
 ### Test amb
 [PageSpeed Insights a web.dev](https://pagespeed.web.dev/analysis/https-greenbeetlestore-github-io-LaCabanya/cwir1yh4k9?form_factor=desktop)
@@ -86,6 +86,56 @@ Al principi de l'informe que es genera al PSI, es mostra una puntuació que resu
 ---
 
 ## Accessibilitat
+
+Accessibilitat Web significa que llocs web, eines i tecnologies estan dissenyades i desenvolupades de manera que les persones amb discapacitats poden usar-les. Més concretament, les persones poden: 
+
+· percebre, comprendre, navegar i interactuar amb la web.
+
+· contribuir a la Web
+
+L'Accessibilitat web inclou totes les discapacitats que afecten l'accés a la Web, incloent-hi:
+
+· auditives
+
+· cognitives
+
+· neurològiques
+
+· físiques
+
+· de la parla
+
+· visuals
+
+L'accessibilitat web també beneficia persones sense discapacitat, com ara:
+
+· persones utilitzant telèfons mòbils, rellotges intel·ligents, televisors intel·ligents i altres dispositius amb pantalles petites, diferents modes d'entrada, etc.
+
+· persones grans les habilitats de les quals canvien amb l'edat.
+
+· persones amb “discapacitats temporals”, com ara un braç trencat o la pèrdua d'unes ulleres.
+
+· persones amb “limitacions per la seva ubicació”, com pot ser sota la llum del sol o en un entorn on no es pot escoltar àudio.
+
+· persones amb connexió lenta a Internet o que tenen ample de banda limitat o costós
+
+Per a moltes persones, la tecnologia facilita les coses. Per a les persones amb alguna mena de discapacitat, la tecnologia fa les coses possibles. Accessibilitat significa desenvolupar contingut perquè sigui tan accessible com sigui possible sense importar les habilitats físiques i cognitives d'un individu i sense importar com accedeixi a la web.
+
+"El Web està dissenyat fonamentalment perquè funcioni per a totes les persones, independentment del maquinari, programari, idioma, cultura, ubicació, capacitat física o mental. Quan el Web compleix aquest objectiu, és accessible per a persones amb una àmplia gamma de capacitats auditives , de moviment, de vista i cognitives." [W3C - Accessibilitat](https://www.w3.org/mission/accessibility/)
+
+## L’accessibilitat web: un dret universal
+
+### Tothom té dret a percebre, entendre, navegar i interactuar
+
+L’accessibilitat és el conjunt de principis i tècniques que s’han de respectar a l’hora de dissenyar, construir, mantenir i actualitzar els webs i les aplicacions per dispositius mòbils per tal que siguin més accessibles als usuaris, especialment a les persones amb discapacitat. L’objectiu és que tothom pugui percebre, entendre, navegar i interactuar amb els webs i aplicacions.
+
+Cada dia hi ha milers i milers de persones que tenen dificultats per obtenir informació d’un web o d’una aplicació mòbil, ja que moltes d’aquestes no estan adaptades per a persones amb problemes físics, ja siguin audiovisuals, auditius, d’ansietat o discapacitats físiques o motores. Per tal d’abordar aquest problema, el 2016 es va crear una <a href="https://www.boe.es/diario_boe/txt.php?id=BOE-A-2018-12699">nova normativa</a> en matèria d’accessibilitat que obliga als organismes del sector públic que els seus els webs i aplicacions per a dispositius mòbils compleixin els <a href="http://accesibilidadweb.dlsi.ua.es/?menu=criterios-2.0">criteris d’accessibilitat</a>.
+
+Segons aquesta normativa, a partir del 20 de setembre de 2020 tots els webs (informacionals i d’aplicacions web) dels organismes públics hauran d’haver aplicat aquests criteris d’accessibilitat. A partir del 23 de juny de 2021 l’obligació també serà per les aplicacions mòbils. Per altra banda, i segons la normativa, els webs publicats a partir del 20 de setembre de 2018 han tingut un any per adaptar-se als criteris.
+
+Tot i que només els organismes del sector públic estan obligats a complir la normativa, tots i totes nosaltres podem fer petits gestos per facilitar la vida a aquelles persones que ho necessiten. I és que tots i totes hauríem de garantir que una pàgina web pugui ser utilitzada per qualsevol persona, independentment de si té o no les capacitats personals o sensorials o els coneixements tècnics adequats. Amb petits gestos com els esmentats en aquest post, millorarem la qualitat de vida i l’autonomia de totes aquestes persones i, com a conseqüència, millorarem el nostre <b>posicionament web (SEO)</b>.
+
+Aquest accés ha de ser universal, per tots els usuaris, independentment dels seus recursos tecnològics (tipus de dispositius, resolucions de pantalla…), la seva formació, cultura i capacitat d’aprenentatge i les seves condicions físiques (problemes visuals, auditius, d’ansietat, discapacitats físiques o motores…).
 
 ## Pràctiques Recomanades
 
