@@ -10,7 +10,7 @@ Integració Web : [Xavier Torta - © Green Beetle. ](https://greenbeetlestore.gi
 
 Tot el contingut de codi HTML ha estat validat, sense cap error, per [W3C](https://validator.w3.org/#validate_by_uri).
 
-Aquesta WEB ha estat creada amb els màxims estàndards possibles pel que fa a <b>RENDIMENT, ACCESSIBILITAT, PRÀCTIQUES RECOMANADES</b> i <b>SEO</b>, com mostren els resultats en els següents i diferents tests :
+Aquesta WEB ha estat creada amb els màxims estàndards possibles pel que fa a l'<b>Experiència d'Usuari (UX)</b>, <b>RENDIMENT, ACCESSIBILITAT, PRÀCTIQUES RECOMANADES</b> i <b>SEO</b>, com mostren els resultats en els següents i diferents tests :
 
 ### Test amb
 [PageSpeed Insights a web.dev](https://pagespeed.web.dev/analysis/https-greenbeetlestore-github-io-LaCabanya/cwir1yh4k9?form_factor=desktop)
