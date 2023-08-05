@@ -4,7 +4,7 @@
 
 ## Web turístic de La Cabanya a La Ràpita
 
-Integració Web : [Xavier Torta - © Green Beetle. ](https://greenbeetlestore.github.io/CV/)
+Integració Web : [Xavier Torta - © Green Beetle. ](https://greenbeetlestore.github.io/CV/). [f.xaviertorta@gmail.com](mailto:"f.xaviertorta@gmail.com). Tels. Catalunya : +34 699 27 31 31. França : +33 685 03 21 45.
 
 És un Disseny amb llicència [HTML5 UP](https://html5up.net/license).
 
