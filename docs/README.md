@@ -22,8 +22,25 @@ Aquesta WEB ha estat creada amb els màxims estàndards possibles pel que fa a <
 · Ràtio de mitjana 92%
 <img src="PageSpeedInsightsMobil.png" alt="Resultats del test Mòbil" >
 
+### Quant a l'API de PageSpeed Insights
+
+L'API de PageSpeed Insights (PSI) informa sobre el rendiment de les pàgines tant en dispositius mòbils com en ordinadors i ofereix suggeriments per millorar-los.
+
+PSI facilita dades dels experiments i dades de camp sobre les pàgines. Les dades d'experiments són útils per depurar problemes de rendiment, ja que es recullen en un entorn controlat, però és possible que no es detectin problemes de capacitat produïts per volums reals de trànsit. Pel que fa a les dades de camp, són útils per saber què passa amb les experiències d'usuari autèntiques i reals.
 
 
+
+
+
+
+
+## Rendiment
+
+## Accessibilitat
+
+## Pràctiques Recomanades
+
+## SEO
 
 ## L’accessibilitat web: un dret universal
 
