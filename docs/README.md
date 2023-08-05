@@ -30,7 +30,12 @@ L'API de PageSpeed Insights (PSI) informa sobre el rendiment de les pàgines tan
 PSI facilita dades dels experiments i dades de camp sobre les pàgines. Les dades d'experiments són útils per depurar problemes de rendiment, ja que es recullen en un entorn controlat, però és possible que no es detectin problemes de capacitat produïts per volums reals de trànsit. Pel que fa a les dades de camp, són útils per saber què passa amb les experiències d'usuari autèntiques i reals.
 
 
+### Test amb
+[GTmetrix](https://gtmetrix.com/reports/greenbeetlestore.github.io/G4s7MxLK/)
 
+### Resultats del test GTmetrix Grade
+· Qualificació "A" 
+<img src="GTmetrix.png" alt="Resultats del test GTmetrix Grade" >
 
 
 
