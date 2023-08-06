@@ -24,7 +24,12 @@ Tot el contingut de codi HTML ha estat validat, sense cap error, per [W3C](https
 
 ---
 
-Aquesta WEB ha estat creada amb els màxims estàndards possibles pel que fa a l'<b>Experiència d'Usuari (UX)</b>, tenint en compte els valors de <b>RENDIMENT, ACCESSIBILITAT, PRÀCTIQUES RECOMANADES</b> i <b>SEO</b>, com mostren els resultats en els següents i diferents tests :
+La tecnologia utilitzada per al desenvolupament de la web és html, css, sass i javascipt.
+
+
+---
+
+Aquesta WEB ha estat creada integrant els màxims estàndards possibles pel que fa a l'<b>Experiència d'Usuari (UX)</b>, tenint en compte els valors de <b>RENDIMENT, ACCESSIBILITAT, PRÀCTIQUES RECOMANADES</b> i <b>SEO</b>, com mostren els resultats en els següents i diferents tests :
 
 ### Test amb
 [PageSpeed Insights a web.dev](https://pagespeed.web.dev/analysis/https-greenbeetlestore-github-io-LaCabanya/cwir1yh4k9?form_factor=desktop)
@@ -159,7 +164,11 @@ Codi de tercers, que sigui de confiança, net, segur i lleuger.
 
 ---
 
-## 4.SEO
+## 4.SEO "Search Engine Optimisation"
+
+Recorda el significat de les sigles SEO, “optimització per a motors de cerca”, i què són els motors de cerca?, eines de consulta constituïdes per algorismes. Els algorismes es comuniquen amb codis i és allà on l'HTML compleix la seva funció, per donar a entendre al cercador que tens una web perfecta, sense defectes de navegació i llista per complaure totes les consultes de la teva audiència, per tant, t'espera un posicionament web genial a la pàgina de resultats.
+
+Per saber-ne més sobre el SEO podeu llegir l'article de [Seo Power Tools](https://www.seo.es/que-es/seo).
 
 
 
