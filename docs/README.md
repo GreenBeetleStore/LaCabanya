@@ -69,7 +69,7 @@ PSI facilita dades dels experiments i dades de camp sobre les pàgines. Les dade
 
 ---
 
-## Rendiment
+## 1.Rendiment
 
 La construcció de llocs web requereix HTML, CSS i JavaScript. Per crear llocs web i aplicacions que la gent vulgui fer servir, que atreguin i retinguin els usuaris, heu de crear una bona experiència d'usuari. Part de la bona experiència de l'usuari és garantir que el contingut es carregui ràpidament i respongui a la interacció de l'usuari. Això es coneix com a rendiment web, i en aquest mòdul aprendrà tot el que necessiteu per crear llocs web de rendiment.
 
@@ -85,7 +85,7 @@ Al principi de l'informe que es genera al PSI, es mostra una puntuació que resu
 
 ---
 
-## Accessibilitat
+## 2.Accessibilitat
 
 Accessibilitat Web significa que llocs web, eines i tecnologies estan dissenyades i desenvolupades de manera que les persones amb discapacitats poden usar-les. Més concretament, les persones poden: 
 
@@ -129,6 +129,8 @@ Per a moltes persones, la tecnologia facilita les coses. Per a les persones amb 
 
 L’accessibilitat és el conjunt de principis i tècniques que s’han de respectar a l’hora de dissenyar, construir, mantenir i actualitzar els webs i les aplicacions per dispositius mòbils per tal que siguin més accessibles als usuaris, especialment a les persones amb discapacitat. L’objectiu és que tothom pugui percebre, entendre, navegar i interactuar amb els webs i aplicacions.
 
+Les pautes d'accessibilitat al contingut web (Web Content Accessibility Guidelines - WCAG) són uns documents que expliquen com fer el contingut web accessible per a persones amb discapacitat. Podeu informar-vos directament a [WCAG](https://wcag.com/).Las Pautas de Accesibilidad para el Contenido Web (WCAG) se desarrollan a través del proceso del [W3C](https://www.w3.org/TR/WCAG21/) (en Inglés) en cooperación con personas y organizaciones de todo el mundo, con el fin de ofrecer un estándar único y compartido que satisfaga las necesidades de las personas, organizaciones y gobiernos a nivel internacional.
+
 Cada dia hi ha milers i milers de persones que tenen dificultats per obtenir informació d’un web o d’una aplicació mòbil, ja que moltes d’aquestes no estan adaptades per a persones amb problemes físics, ja siguin audiovisuals, auditius, d’ansietat o discapacitats físiques o motores. Per tal d’abordar aquest problema, el 2016 es va crear una <a href="https://www.boe.es/diario_boe/txt.php?id=BOE-A-2018-12699">nova normativa</a> en matèria d’accessibilitat que obliga als organismes del sector públic que els seus els webs i aplicacions per a dispositius mòbils compleixin els <a href="http://accesibilidadweb.dlsi.ua.es/?menu=criterios-2.0">criteris d’accessibilitat</a>.
 
 Segons aquesta normativa, a partir del 20 de setembre de 2020 tots els webs (informacionals i d’aplicacions web) dels organismes públics hauran d’haver aplicat aquests criteris d’accessibilitat. A partir del 23 de juny de 2021 l’obligació també serà per les aplicacions mòbils. Per altra banda, i segons la normativa, els webs publicats a partir del 20 de setembre de 2018 han tingut un any per adaptar-se als criteris.
@@ -139,7 +141,7 @@ Aquest accés ha de ser universal, per tots els usuaris, independentment dels se
 
 ---
 
-## Pràctiques Recomanades
+## 3.Pràctiques Recomanades
 
 Millorar el rendiment del vostre lloc és una part important en el procés de creació, així com del manteniment continu. Les pautes de pràctiques recomanades permeten millorar l'experiència d'usuari i, per tant, altres aspectes, com la capacitat de resposta, la fluïdesa i el temps de càrrega.
 
@@ -155,7 +157,7 @@ Codi de tercers, que sigui de confiança, net, segur i lleuger.
 
 ---
 
-## SEO
+## 4.SEO
 
 
 
