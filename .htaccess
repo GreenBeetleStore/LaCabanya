@@ -1,5 +1,0 @@
-<!-- Cache-Control -->
-      <!-- Imagenes almacendas por un año -->
-      <filesMatch ".(jpg|jpeg|png|webp|avif|ico)$">Header set Cache-Control "max-age=31536000, public"</filesMatch>
-      <!-- Almacenando js y css por un mes -->
-      <filesMatch ".(css|js)$">Header set Cache-Control "max-age=2628000, public"</filesMatch>
