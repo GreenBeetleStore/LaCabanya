@@ -2424,29 +2424,43 @@ button:disabled,
   }
 }
 
-#page-wrapper #wrapper #four .slider-frame {
+#four {
+  margin: 0;
+  padding: 0;
+}
+
+#four.inner {
+  width: 100%;
+  margin: 30px auto;
+  background-color: #002f4e;
+}
+
+#four.inner.slider-frame {
   width: 100%;
   height: auto;
   margin: 30px auto 0;
   animation: slide 42s infinite alternate ease-in-out;
 }
-#page-wrapper #wrapper #four .slider-frame ul {
+
+.slider-frame__ul {
   display: flex;
   padding: 0;
   width: 1400%;
   border-radius: 15px;
 }
-#page-wrapper #wrapper #four .slider-frame ul li {
+
+.slider-frame__ul__li {
   list-style: none;
   width: 100%;
   margin: 0 30px;
 }
-#page-wrapper #wrapper #four .slider-frame ul li img {
+
+.slider-frame__ul__li__img {
   width: 100%;
   height: 720px;
   border-radius: 15px;
   -o-object-fit: cover;
-     object-fit: cover;
+  object-fit: cover;
 }
 
 @keyframes slide {

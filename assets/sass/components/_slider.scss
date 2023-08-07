@@ -5,36 +5,39 @@
 ///
 
 /// Slider
-#page-wrapper {
-   #wrapper {
-      #four {
-         .slider-frame {
-            width: 100%;
-            height: auto;
-            margin: 30px auto 0;
-            animation: slide 42s infinite alternate ease-in-out;
-            ul {
-               display: flex;
-               padding: 0;
-               width: 1400%;
-               border-radius: 15px;
-               li {
-                  list-style: none;
-                  width: 100%;
-                  margin: 0 30px;
-                  img {
-                     width: 100%;
-                     height: 720px;
-                     border-radius: 15px;
-                     object-fit: cover;
-                  }
-               }
-            }
-         }
-      }
-   }
+#four {
+   margin: 0;
+   padding: 0;
 }
-
+#four.inner {
+   width: 100%;
+   margin: 30px auto;
+   background-color: #002f4e;
+}
+#four.inner.slider-frame {
+   width: 100%;
+   height: auto;
+   margin: 30px auto 0;
+   animation: slide 42s infinite alternate ease-in-out;
+}
+.slider-frame__ul {
+   display: flex;
+   padding: 0;
+   width: 1400%;
+   border-radius: 15px;
+}
+.slider-frame__ul__li {
+   list-style: none;
+   width: 100%;
+   margin: 0 30px;
+}
+.slider-frame__ul__li__img {
+   width: 100%;
+   height: 720px;
+   border-radius: 15px;
+   -o-object-fit: cover;
+   object-fit: cover;
+}
 @keyframes slide {
    0% {
       margin-left: 0%;
