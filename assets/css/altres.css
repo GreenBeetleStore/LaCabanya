@@ -1,0 +1,19 @@
+body {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.botó {
+   color: #000;
+   font-size: 24px;
+   border-radius: 15px;
+   padding: 30px;
+   margin-top: 50px;
+}
+
+a {
+   text-decoration: none;
+}
