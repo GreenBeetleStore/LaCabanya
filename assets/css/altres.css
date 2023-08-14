@@ -4,6 +4,9 @@ body {
    justify-content: center;
    align-items: center;
    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   background-image: url(../../images/LogoPlatja.webp);
+   background-position: 100%;
+   background-size: cover;
 }
 
 .botó {
@@ -16,4 +19,11 @@ body {
 
 a {
    text-decoration: none;
+}
+
+
+
+.aniversari img {
+   width: 400px;
+   object-fit: cover;
 }
