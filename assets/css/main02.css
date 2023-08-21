@@ -4151,10 +4151,10 @@ input, select, textarea {
 	}
 
 	
-   /* Estil per al marc del carrusel */
+/* Estil per al marc del carrusel */
 .slider-frame {
    width: 100%;
-   height: 700px;
+   height: 730px;
    overflow: hidden;
 }
 
@@ -4163,15 +4163,14 @@ input, select, textarea {
    display: flex; /* Per a un carrusel horitzontal */
    list-style: none;
    padding: 0;
-   margin: 0 -10px;
+   margin: 0 -15px;
    transition: transform 0.3s ease-in-out; /* Transició per als canvis de diapositives */
 }
 
-
-
-/* Estil per a cada element de la llista (diapositiva) */
+/* Estils per a cada element de la llista (diapositiva) */
 .slider-frame__ul__li {
    flex: 0 0 auto;
+   max-width: 100%; /* Assegura que les diapositives no surtin del seu contenidor */
 }
 
 /* Estil per a les imatges dins de cada diapositiva */
@@ -4180,7 +4179,42 @@ input, select, textarea {
    height: auto;
 }
 
+/* Estils per als diferents breakpoints */
+@media screen and (max-width: 1440px) {
+   .slider-frame {
+      height: 600px; /* Ajusta l'alçada segons el teu disseny */
+   }
+}
 
+@media screen and (max-width: 1280px) {
+   .slider-frame {
+      height: 500px; /* Ajusta l'alçada segons el teu disseny */
+   }
+}
+
+@media screen and (max-width: 980px) {
+   .slider-frame {
+      height: 400px; /* Ajusta l'alçada segons el teu disseny */
+   }
+}
+
+@media screen and (max-width: 736px) {
+   .slider-frame {
+      height: 350px; /* Ajusta l'alçada segons el teu disseny */
+   }
+}
+
+@media screen and (max-width: 480px) {
+   .slider-frame {
+      height: 300px; /* Ajusta l'alçada segons el teu disseny */
+   }
+}
+
+@media screen and (max-width: 360px) {
+   .slider-frame {
+      height: 250px; /* Ajusta l'alçada segons el teu disseny */
+   }
+}
 
 /*
 	Solid State by HTML5 UP
