@@ -4154,8 +4154,10 @@ input, select, textarea {
    /* Estil per al marc del carrusel */
 .slider-frame {
    width: 100%;
+   max-width: 1680px; /* Limitar l'amplada màxima pel breakpoint xlarge */
    height: 700px;
    overflow: hidden;
+   margin: 0 auto; /* Centrar horitzontalment */
 }
 
 /* Estil per a la llista d'elements del carrusel */
@@ -4164,14 +4166,14 @@ input, select, textarea {
    list-style: none;
    padding: 0;
    margin: 0 -10px;
-   transition: transform 0.3s ease-in-out; /* Transició per als canvis de diapositives */
+   transition: transform 3s ease-in-out; /* Transició per als canvis de diapositives */
+	overflow: hidden; /* Amagar els elements que superin l'amplada del marc */
 }
-
-
 
 /* Estil per a cada element de la llista (diapositiva) */
 .slider-frame__ul__li {
-   flex: 0 0 auto;
+   flex: 0 0 100%; /* Ocupar tot l'ample del marc */
+   max-width: 100%; /* Assegurar-se que la imatge no surt del marc */
 }
 
 /* Estil per a les imatges dins de cada diapositiva */
@@ -4180,6 +4182,40 @@ input, select, textarea {
    height: auto;
 }
 
+/* Breakpoint large */
+@media screen and (max-width: 1280px) {
+   .slider-frame {
+      max-width: 1280px;
+   }
+}
+
+/* Breakpoint medium */
+@media screen and (max-width: 980px) {
+   .slider-frame {
+      height: 500px; /* Ajustar l'altura al breakpoint medium */
+   }
+}
+
+/* Breakpoint small */
+@media screen and (max-width: 736px) {
+   .slider-frame {
+      height: 400px; /* Ajustar l'altura al breakpoint small */
+   }
+}
+
+/* Breakpoint xsmall */
+@media screen and (max-width: 480px) {
+   .slider-frame {
+      height: 300px; /* Ajustar l'altura al breakpoint xsmall */
+   }
+}
+
+/* Breakpoint XXsmall */
+@media screen and (max-width: 360px) {
+   .slider-frame {
+      height: 250px; /* Ajustar l'altura al breakpoint XXsmall */
+   }
+}
 
 
 /*
