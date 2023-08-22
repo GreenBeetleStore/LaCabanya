@@ -4220,6 +4220,23 @@ input, select, textarea {
    }
 }
 
+/* =================================
+                VÍDEO
+	================================= */
+
+/* Estil per al reproductor de vídeo en un amplada de pantalla més gran */
+video {
+   width: 100%;
+   max-width: 800px; /* O l'amplada que consideris adequada */
+}
+
+/* Estil per al reproductor de vídeo en un amplada de pantalla més petita */
+@media screen and (max-width: 768px) {
+   video {
+      max-width: 100%; /* O la mida que consideris adequada */
+   }
+}
+
 /*
 	Solid State by HTML5 UP
 	html5up.net | @ajlkn
