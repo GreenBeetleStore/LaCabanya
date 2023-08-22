@@ -151,8 +151,42 @@
                         <li class="slider-frame__ul__li">
                            <img
                               class="slider-frame__ul__li--img"
+                              src="../carousel/Carousel016.avif"
+                              alt="Imatge del logo La Cabanya reflexat al mar i amb espill invers al cel en una foto del mar des de la platja a la sortida de Sol."
+                           />
+                        </li>
+                        <li class="slider-frame__ul__li">
+                           <img
+                              class="slider-frame__ul__li--img"
                               src="../carousel/Carousel01.avif"
-                              alt="Foto de la terrassa"
+                              alt="Foto de la terrassa amb vista des de els caiacs amb perspectiva de cara a l'Est"
+                           />
+                        </li>
+                        <li class="slider-frame__ul__li">
+                           <img
+                              class="slider-frame__ul__li--img"
+                              src="../carousel/Carousel02.avif"
+                              alt="Foto de la terrassa interior perspectiva de cara al Oest"
+                           />
+                        </li>
+                        <li class="slider-frame__ul__li">
+                           <img
+                              class="slider-frame__ul__li--img"
+                              src="../carousel/Carousel03.avif"
+                              alt="Foto de la terrassa perspectiva de cara al Nord"
+                           />
+                        </li>
+                        <li class="slider-frame__ul__li">
+                           <img
+                              class="slider-frame__ul__li--img"
+                              src="../carousel/Carousel05.avif"
+                              alt="Foto del material nàutic perspectiva de cara al Sud"
+                           />
+                        </li><li class="slider-frame__ul__li">
+                           <img
+                              class="slider-frame__ul__li--img"
+                              src="../carousel/Carousel08.avif"
+                              alt="Foto de l'esplanada de repòs vora mar amb les gandules al fons, amb perspectiva de cara al Sud Est."
                            />
                         </li>
 
@@ -536,6 +570,34 @@
       <!-- Below is the link that users can use to open Preferences Center to change their preferences. Do not modify the ID parameter. Place it where appropriate, style it as needed. -->
 
       <a href="#" id="open_preferences_center">Update cookies preferences</a>
+
+      <!-- SCRIPT PER AL CARRUSEL -->
+      <script>
+         // Funció per canviar la diapositiva actual
+         function changeSlide(index) {
+            const sliderFrame = document.querySelector('.slider-frame__ul')
+            const slideWidth = document.querySelector(
+               '.slider-frame__ul__li'
+            ).clientWidth
+
+            // Afegim una classe per activar l'animació
+            sliderFrame.style.transition = 'transform 3s ease-in-out'
+            sliderFrame.style.transform = `translateX(-${index * slideWidth}px)`
+         }
+
+         // Iniciar el carrusel automàticament
+         let currentSlide = 0
+         const slidesCount = document.querySelectorAll(
+            '.slider-frame__ul__li'
+         ).length
+
+         function autoChangeSlide() {
+            changeSlide(currentSlide)
+            currentSlide = (currentSlide + 1) % slidesCount
+         }
+
+         setInterval(autoChangeSlide, 6000) // Canviar cada 6 segons (3000ms)
+      </script>
    </body>
 </html>
 
