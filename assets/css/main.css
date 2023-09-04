@@ -2867,7 +2867,7 @@ input, select, textarea {
 		border-radius: 5px;
 		border: 0;
 		box-shadow: inset 0 0 0 2px rgba(255, 255, 255, 0.125);
-		color: #ffffff !important;
+		color: #ffffff /*!important*/;
 		cursor: pointer;
 		display: inline-block;
 		font-family: Raleway, Helvetica, sans-serif;
@@ -4154,3 +4154,18 @@ input, select, textarea {
 		}
 
 	}
+
+/* Cambiar el color del texto de los botones a negro */
+#cookie-consent-popup .cc-btn {
+    color: black !important;
+}
+
+/* Cambiar el color del texto del botón "Permetre tot" (Allow All) a negro */
+#cookie-consent-popup .cc-allow {
+    color: black !important;
+}
+
+/* Cambiar el color del texto del botón "Tanca" (Close) a negro */
+#cookie-consent-popup .cc-close {
+    color: black !important;
+}
